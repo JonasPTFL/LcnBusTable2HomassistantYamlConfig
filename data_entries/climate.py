@@ -1,5 +1,5 @@
 import converter
-from entry import DataEntry
+from data_entries.entry import DataEntry
 
 
 class Climate(DataEntry):
